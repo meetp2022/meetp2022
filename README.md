@@ -1,3 +1,7 @@
+![Hello! I am Meet](https://user-images.githubusercontent.com/101440127/229282005-42555712-3795-4694-a762-96b4ee7d1546.png)
+
+
+
 - 👋 Hi, I’m **Meet Patel**
 - 👀 I’m interested in getting acquainted with trending technologies
 - 🌱 I’m currently learning Machine learning and related concepts
