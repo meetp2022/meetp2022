@@ -15,7 +15,7 @@
 
 ## About Me
 
-Applied AI practitioner with 6+ years of industry experience across enterprise systems, data engineering, and AI-powered platforms.
+Applied AI practitioner and technical writer with 6+ years of industry experience across enterprise systems, data engineering, and AI-powered platforms.
 
 ## 🧠 What I Build
 
