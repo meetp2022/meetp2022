@@ -13,6 +13,12 @@
 
 ---
 
+## About Me
+
+---
+
+Applied AI practitioner with 6+ years of industry experience across enterprise systems, data engineering, and AI-powered platforms.
+
 ## 🧠 What I Build
 
 - 🔹 Retrieval-Augmented Generation (RAG) pipelines  
