@@ -76,15 +76,6 @@ Transformer-based NLP engine with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetp2022&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetp2022&theme=dark" height="160"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/meet-patel-1b8160ab  
