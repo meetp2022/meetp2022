@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meet Patel  
+# AI Systems Builder — Production RAG/LLM | PyTorch | FastAPI | Azure 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Applied-AI-orange?style=for-the-badge" />
